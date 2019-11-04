@@ -54,6 +54,4 @@ usage : `make`<br />
 
 ![Screenshot 2019-11-04 at 11 14 52](https://user-images.githubusercontent.com/27351943/68116730-d11b8980-fefb-11e9-94f2-8a1899a2b011.png)
 
-![Screenshot 2019-11-04 at 11 14 47](https://user-images.githubusercontent.com/27351943/68116733-d1b42000-fefb-11e9-9fb8-c9589f326edb.png)
-
 Enjoy !
