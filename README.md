@@ -38,12 +38,22 @@ usage : `make`<br />
 
 <h2>Here is a preview of the program :</h2><br />
 
-![bzTYxlaA08](https://user-images.githubusercontent.com/27351943/55322038-71e42b00-547b-11e9-8b80-62411054e65e.gif)
+![Screenshot 2019-11-04 at 11 18 16](https://user-images.githubusercontent.com/27351943/68116667-b21cf780-fefb-11e9-988a-a87e072ca6ac.png)
 
-![bzTYxlaA08](https://user-images.githubusercontent.com/27351943/55324123-6dbb0c00-5481-11e9-8c38-71bd2285514d.gif)
+![Screenshot 2019-11-04 at 11 27 47](https://user-images.githubusercontent.com/27351943/68116722-cf51c600-fefb-11e9-99ad-c4d6d8486211.png)
 
-![bzTYxlaA08](https://user-images.githubusercontent.com/27351943/55324491-8d9eff80-5482-11e9-98c9-79ec8308eb95.gif)
+![Screenshot 2019-11-04 at 11 15 54](https://user-images.githubusercontent.com/27351943/68116723-cfea5c80-fefb-11e9-8eaa-7a509bef0ceb.png)
 
-![bzTYxlaA08](https://user-images.githubusercontent.com/27351943/55324599-e078b700-5482-11e9-986d-62e3c362138f.gif)
+![Screenshot 2019-11-04 at 11 17 59](https://user-images.githubusercontent.com/27351943/68116725-cfea5c80-fefb-11e9-9dce-dd496be83aff.png)
+
+![Screenshot 2019-11-04 at 11 22 32](https://user-images.githubusercontent.com/27351943/68116726-d082f300-fefb-11e9-87c3-19901c310c55.png)
+
+![Screenshot 2019-11-04 at 11 26 19](https://user-images.githubusercontent.com/27351943/68116728-d082f300-fefb-11e9-9345-071d32fe694a.png)
+
+![Screenshot 2019-11-04 at 11 27 20](https://user-images.githubusercontent.com/27351943/68116729-d11b8980-fefb-11e9-97d8-ffc186c5e228.png)
+
+![Screenshot 2019-11-04 at 11 14 52](https://user-images.githubusercontent.com/27351943/68116730-d11b8980-fefb-11e9-94f2-8a1899a2b011.png)
+
+![Screenshot 2019-11-04 at 11 14 47](https://user-images.githubusercontent.com/27351943/68116733-d1b42000-fefb-11e9-9fb8-c9589f326edb.png)
 
 Enjoy !
