@@ -1,4 +1,4 @@
-<h1>Scop using OpenGL 4.x | GLFW</h1><br />
+<h1>ft_vox using OpenGL 4.x && GLFW - C++</h1><br />
 
 usage : `make install`<br />
 usage : `make`<br />
